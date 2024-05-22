@@ -1,26 +1,7 @@
-# Counter
+# 💻 Building DeFi on TON | Episode 02
+**First Smart Contract on Tact, Build, Deploy on Ton Testnet Chain**
 
-## Project structure
+Welcome to the second episode of the "Building DeFi on TON" series! In this tutorial, we cover the basics of writing your first smart contract in Tact, building it, and deploying it on the TON testnet chain.
 
--   `contracts` - source code of all the smart contracts of the project and their dependencies.
--   `wrappers` - wrapper classes (implementing `Contract` from ton-core) for the contracts, including any [de]serialization primitives and compilation functions.
--   `tests` - tests for the contracts.
--   `scripts` - scripts used by the project, mainly the deployment scripts.
-
-## How to use
-
-### Build
-
-`npx blueprint build` or `yarn blueprint build`
-
-### Test
-
-`npx blueprint test` or `yarn blueprint test`
-
-### Deploy or run another script
-
-`npx blueprint run` or `yarn blueprint run`
-
-### Add a new contract
-
-`npx blueprint create ContractName` or `yarn blueprint create ContractName`
+## 📺 YouTube Video
+Watch the full video tutorial here: [Building DeFi on TON | 02](https://www.youtube.com/watch?v=J7ZF3KWxX_8)
